@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Shamik 👋
 
-<!--
-**Shamik0221/Shamik0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Test Analyst with 4+ years testing banking and payments platforms for Commercial Bank of Dubai, Kotak Mahindra Bank and NSDL, and now building and testing AI applications.
 
-Here are some ideas to get you started:
+🎓 MSc Software Engineering, University of Hertfordshire – University Prize (highest CGPA on the programme)
+✅ ISTQB Advanced Test Automation Engineering · ISTQB Testing with Generative AI · ISTQB Foundation
+🤖 Built CyberMentor, a RAG chatbot (Python, FastAPI, Llama 3.3, Chroma) for a cybersecurity course
+🧪 Now adding Postman/Newman and Playwright tests to it in Cybermentor-tests
+📍 Luton, UK · open to Test Analyst, UAT and QA roles in the UK, UAE, Ireland and Europe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: UAT · functional, integration & regression testing · SQL · REST API testing (Postman, Newman) · Python · Git · learning Playwright
+
+📫 shamikvijayn@gmail.com · LinkedIn · Portfolio
