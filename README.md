@@ -10,4 +10,4 @@ Test Analyst with 4+ years testing banking and payments platforms for Commercial
 
 Skills: UAT · functional, integration & regression testing · SQL · REST API testing (Postman, Newman) · Python · Git · learning Playwright
 
-📫 shamikvijayn@gmail.com · LinkedIn · Portfolio
+📫 shamikvijayn@gmail.com · | LinkedIn :- www.linkedin.com/in/shamiknagre |  · Portfolio :- https://shamik0221.github.io/Portfolio/#contact
